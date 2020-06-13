@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dummy"
+        android:icon="@android:drawable/sym_contact_card"
+        android:title="Dummy Database"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/dev"
+        android:title="Devlopers" />
+</menu>
